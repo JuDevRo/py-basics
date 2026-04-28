@@ -25,3 +25,6 @@ mivariable2 = "a"
 camelCase = "Comienza con minuscula y cada palabra siguiente con mayuscula"
 PascalCase = "Cada palabra comienza con mayuscula"
 snake_case = "Todas las palabras con minuscula y separadas por guion bajo"
+
+# Todo mayus las constantes
+# Las que empiezan con guion bajo las privadas
