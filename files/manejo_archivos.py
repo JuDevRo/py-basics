@@ -4,6 +4,7 @@
 # R (read) Lectura 
 # W (write) Escritura
 # X (Crea archivo nuevo)
+# A (append) Agregar contenido al final del archivo
 
 try:
     with open("archivo.txt", "r", encoding="utf-8") as f:
