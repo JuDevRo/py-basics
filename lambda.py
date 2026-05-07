@@ -12,5 +12,7 @@ def mifuncion(n):
 duplicador = mifuncion(2)
 triplicador = mifuncion(3)
 
+# Duplicador y triplicador son funciones lambda
+
 print(duplicador(5)) # 10
 print(triplicador(5)) # 15
